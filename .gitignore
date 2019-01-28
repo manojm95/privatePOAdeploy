@@ -1,0 +1,3 @@
+test/**/*
+build/**/*
+contracts/Form.sol
